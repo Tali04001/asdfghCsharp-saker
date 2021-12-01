@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\Cockdanielpt2\bin\Debug\net5.0\Cockdanielpt2.exe
+C:\Users\Admin\Desktop\Cockdanielpt2\bin\Debug\net5.0\Cockdanielpt2.deps.json
+C:\Users\Admin\Desktop\Cockdanielpt2\bin\Debug\net5.0\Cockdanielpt2.runtimeconfig.json
+C:\Users\Admin\Desktop\Cockdanielpt2\bin\Debug\net5.0\Cockdanielpt2.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Cockdanielpt2\bin\Debug\net5.0\Cockdanielpt2.dll
+C:\Users\Admin\Desktop\Cockdanielpt2\bin\Debug\net5.0\ref\Cockdanielpt2.dll
+C:\Users\Admin\Desktop\Cockdanielpt2\bin\Debug\net5.0\Cockdanielpt2.pdb
+C:\Users\Admin\Desktop\Cockdanielpt2\obj\Debug\net5.0\Cockdanielpt2.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Cockdanielpt2\obj\Debug\net5.0\Cockdanielpt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Cockdanielpt2\obj\Debug\net5.0\Cockdanielpt2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Cockdanielpt2\obj\Debug\net5.0\Cockdanielpt2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Cockdanielpt2\obj\Debug\net5.0\Cockdanielpt2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Cockdanielpt2\obj\Debug\net5.0\Cockdanielpt2.dll
+C:\Users\Admin\Desktop\Cockdanielpt2\obj\Debug\net5.0\ref\Cockdanielpt2.dll
+C:\Users\Admin\Desktop\Cockdanielpt2\obj\Debug\net5.0\Cockdanielpt2.pdb
+C:\Users\Admin\Desktop\Cockdanielpt2\obj\Debug\net5.0\Cockdanielpt2.genruntimeconfig.cache
